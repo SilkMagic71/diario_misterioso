@@ -6,7 +6,7 @@
 
 ## <div align="center">Diferencial</div>
 
-O grande diferencial do jogo está na mecânica de escolha: conforme você percorre os diferentes cômodos da casa, terá uma lista de itens predeterminados. Cabe a você decidir quais objetos serão empacotados em cada cômodo. Essas escolhas influenciarão diretamente a história revelada no final do jogo, que é gerada por IA com base nos itens que você escolheu embalar.
+O grande diferencial do jogo está na mecânica de escolha e na geração de história dinâmica. Você, como jogador, decidirá quais objetos estarão em cada cômodo da casa, escolhendo de uma lista predeterminada. Com base nas suas escolhas, uma inteligência artificial irá gerar a história do ex-morador, proporcionando uma narrativa imprevisível até um certo ponto. Essa mecânica não apenas permite uma interação profunda com o ambiente, mas também faz com que cada sessão de jogo seja única, dando ao jogador a sensação de que está realmente moldando o destino do personagem e descobrindo sua história de maneira autêntica e imersiva.
 
 ## Finais
 
@@ -14,7 +14,7 @@ O desfecho da história será decidido por duas escolhas feitas no final do jogo
 
 ### Escolha 1: Ler ou não ler o diário
 
-A primeira escolha envolve uma questão moral: você prefere ganhar 100 reais extras ou ler o misterioso diário do ex-morador?
+Você prefere ganhar 100 reais extras ou ler o misterioso diário do ex-morador?
 
 - **Final do Virtuoso**: Se você opta por não ler o diário, o ex-morador respeita sua atitude e valoriza sua integridade. Ele compartilha voluntariamente a história de sua vida enquanto vocês apreciam a vizinhança da nova casa, tomando café juntos.
   
@@ -24,4 +24,4 @@ Caso você tenha lido o diário, surge uma nova escolha: você deve decidir se s
 
 - **Final do Mentiroso**: Se você mente para o ex-morador sobre ter lido o diário, ele acaba descobrindo a verdade. Como consequência, espalha rumores sobre sua falta de respeito à privacidade. A empresa onde você trabalha toma conhecimento dessa má reputação e acaba demitindo você por justa causa.
   
-- **Final do Redentor**: Se você decide ser honesto e confessa que leu o diário, o ex-morador valoriza sua sinceridade e o gesto de arrependimento. Ele reconhece seu esforço em corrigir o erro e, como um gesto de amizade, oferece a você um pão carioca com café. Vocês conversam e apreciam a vizinhança da nova casa enquanto compartilham um momento de reflexão.
+- **Final do Redentor**: Se você decide ser honesto e confessa que leu o diário, o ex-morador valoriza sua sinceridade e o gesto de arrependimento. Ele reconhece seu esforço em corrigir o erro e, como um gesto de amizade e reconciliação, oferece a você um pão carioca com café. Vocês conversam e apreciam a vizinhança da nova casa enquanto compartilham um momento de reflexão.
